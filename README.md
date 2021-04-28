@@ -27,9 +27,9 @@
 |  5  | Arrow Functions |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/17arrowfunction.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-arrows)|
 |  6  | Bitwise Operators |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/19bitwise.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-bitwise)|
 |  6  | JavaScript Dates |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/18date.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-date)|
-|  7  | Regular Expressions | |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/20regex1.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-regexp-1)|
-|  7  | Regular Expressions || |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/21regex2.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-regexp-2)|
-|  7  | Regular Expressions ||| |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/22regex3.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-regexp-3)|
+|  7  | Regular Expressions 1 |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/20regex1.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-regexp-1)|
+|  7  | Regular Expressions 2 |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/21regex2.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-regexp-2)|
+|  7  | Regular Expressions 3 |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/blob/main/src/10_Days_Of_JS/22regex3.js)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-regexp-3)|
 |  8  | Create a Button |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/tree/main/src/10_Days_Of_JS/createButton)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-create-a-button)|
 |  8  | Buttons Container |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/tree/main/src/10_Days_Of_JS/buttonsContainer)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-buttons-container)|
 |  9  | Binary Calculator |[Solution.js](https://github.com/kashichi/HackerRank-Solutions/tree/main/src/10_Days_Of_JS/binaryCalculator)|[HackerRank Link](https://www.hackerrank.com/challenges/js10-binary-calculator)|
